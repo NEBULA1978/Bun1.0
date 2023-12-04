@@ -150,3 +150,7 @@ next@next-System-Product-Name:~/bun-demo$ git commit -m " Bun esta redefiniendo 
  create mode 100644 node_modules/scheduler/unstable_post_task.js
  create mode 100644 package.json
 next@next-System-Product-Name:~/bun-demo$ 
+
+Complilamos en archivo:
+next@next-System-Product-Name:~/bun-demo$ bun build ./index.tsx > index2.tsx
+next@next-System-Product-Name:~/bun-demo$ 
